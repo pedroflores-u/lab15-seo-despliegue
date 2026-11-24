@@ -4,4 +4,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /privado/
 
-Sitemap: https://MI-DOMINIO.vercel.app/sitemap.xml
+Sitemap: https://lab15-seo-despliegue.vercel.app/sitemap.xml
